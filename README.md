@@ -1,0 +1,1 @@
+Script Python que realiza um teste básico de injeção SQL em uma API. O script envia uma solicitação POST para uma URL de API especificada com um payload que contém um ataque de injeção SQL simples. Ele então verifica se a resposta da API indica uma possível vulnerabilidade de injeção SQL.
